@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @owentsang2
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning to become a Data Analyst
-- 💞️ I’m looking to collaborate on any interesting projects
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me - o.tsang2@gmail.com
 - 😄 Pronouns: - he/him
 
