@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @owentsang2
 - 🌱 I’m transitioning become a Data Analyst
+- Starting my degree on Computing & IT to expand my knowledge
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me - o.tsang2@gmail.com
 
